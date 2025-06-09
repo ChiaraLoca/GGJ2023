@@ -10,10 +10,11 @@ Maple Quest is a game divided into three microgames, the idea was to run through
 
 ## Credits
 
-* Chiara Locatelli - Programmer
-* Riccardo Posa - Programmer
-* Mattia Bellandi - Programmer / Music
 * Aramis Garatti - Programmer
+* Chiara Locatelli - Programmer
 * Francesco Inglod - Programmer
+* Mattia Bellandi - Programmer / Music
+* Riccardo Posa - Programmer
 * Martina Posa  - Artist
+
 
