@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Player_Object
+  - Enemy
+  - Attack
+  - EndingPlatform
   layers:
   - Default
   - TransparentFX
@@ -12,9 +17,16 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
-  - 
+  - L3_Player
+  - L3_proj
+  - L3_enemy
+  - L3_ground
+  - L3_enemyProj
+  - L3_terminal
+  - l2Enemy
+  - l2Player
+  - l2Ground
+  - l2Projectile
   - 
   - 
   - 
